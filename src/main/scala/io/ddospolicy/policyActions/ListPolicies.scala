@@ -18,7 +18,7 @@ object ListPolicies {
   object CreatePolicyResponse {
     implicit val createPolicyEncoderEncoder: Encoder[ListPoliciesResponse] = new Encoder[ListPoliciesResponse] {
       final def apply(a: ListPoliciesResponse): Json = Json.obj(
-        ("Status", Json.fromString(a.response)),
+        ("Status", Json.fromString(a.response.mkString)),
       )
     }
     implicit def greetingEntityEncoder[F[_]]: EntityEncoder[F, ListPoliciesResponse] =
@@ -27,6 +27,6 @@ object ListPolicies {
 
   def impl[F[_]: Applicative]: ListPolicies[F] = new ListPolicies[F]{
     def listPolicies: F[ListPolicies.ListPoliciesResponse] =
-      ListPoliciesResponse(s"All policies currently stored:\n [${Nil.mkString(", \n")}]").pure[F]
+      ListPoliciesResponse("Not currently implemented").pure[F]
   }
 }

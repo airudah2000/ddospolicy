@@ -38,8 +38,8 @@ object DdospolicyRoutes {
     HttpRoutes.of[F] {
       case GET -> Root / "createPolicy" / name =>
         for {
-          greeting <- H.createPolicy(CreatePolicy.PolicyName(name))
-          resp <- Ok(greeting)
+          policy <- H.createPolicy(CreatePolicy.PolicyName(name))
+          resp <- Ok(policy)
         } yield resp
     }
   }
@@ -50,8 +50,8 @@ object DdospolicyRoutes {
     HttpRoutes.of[F] {
       case GET -> Root / "removePolicy" / name =>
         for {
-          greeting: RemovePolicy.RemovePolicyResponse <- H.removePolicy(RemovePolicy.PolicyName(name))
-          resp <- Ok(greeting)
+          policy: RemovePolicy.RemovePolicyResponse <- H.removePolicy(RemovePolicy.PolicyName(name))
+          resp <- Ok(policy)
         } yield resp
     }
   }
@@ -62,8 +62,8 @@ object DdospolicyRoutes {
     HttpRoutes.of[F] {
       case GET -> Root / "listPolicies" =>
         for {
-          response: ListPolicies.ListPoliciesResponse <- H.listPolicies
-          resp <- Ok(response.response)
+          policies: ListPolicies.ListPoliciesResponse <- H.listPolicies
+          resp <- Ok(policies.response)
         } yield resp
     }
   }

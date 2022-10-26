@@ -1,2 +1,62 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/robertudah/Development/Prototype/ddospolicy/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListPolicies$ListPoliciesResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListPolicies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemovePolicy$RemovePolicyResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemovePolicy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$$anonfun$listPoliciesRoutes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatePolicy$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Event$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$$anonfun$createPolicyRoutes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatePolicy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$Joke$anon$lazy$macro$15$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemovePolicy$PolicyName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$Joke$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatePolicy$PolicyName.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Policy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Condition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$Joke.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdosJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListPolicies$CreatePolicyResponse$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$JokeError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListPolicies$CreatePolicyResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListPolicies$ListPoliciesResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Condition$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListPolicies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$Joke$anon$lazy$macro$7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Event.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$$anon$3$$anonfun$get$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$JokeError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$$anonfun$jokeRoutes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemovePolicy$RemovePolicyResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatePolicy$PolicyName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemovePolicy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$Joke$anon$lazy$macro$15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Policy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatePolicy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatePolicy$CreatePolicyResponse$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemovePolicy$PolicyName.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes$Joke$anon$lazy$macro$7$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jokes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatePolicy$CreatePolicyResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatePolicy$CreatePolicyResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListPolicies$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemovePolicy$RemovePolicyResponse$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DdospolicyRoutes$$anonfun$removePolicyRoutes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemovePolicy$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/robertudah/Development/Prototype/ddospolicy/target/scala-2.13/classes.bak[0m

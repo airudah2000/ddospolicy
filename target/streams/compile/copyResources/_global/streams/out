@@ -1,3 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/robertudah/Development/Prototype/ddospolicy/src/main/resources/logback.xml,/Users/robertudah/Development/Prototype/ddospolicy/target/scala-2.13/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/robertudah/Development/Prototype/ddospolicy/src/main/resources/META-INF/native-image/io/ddospolicy/reflect-config.json,/Users/robertudah/Development/Prototype/ddospolicy/target/scala-2.13/classes/META-INF/native-image/io/ddospolicy/reflect-config.json)[0m
