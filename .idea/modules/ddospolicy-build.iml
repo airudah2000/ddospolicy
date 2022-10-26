@@ -127,9 +127,7 @@
           <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.8/scalactic_2.12-3.0.8.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/.sbt/boot/scala-2.12.16/lib" />
-        </SOURCES>
+        <SOURCES />
       </library>
     </orderEntry>
   </component>
