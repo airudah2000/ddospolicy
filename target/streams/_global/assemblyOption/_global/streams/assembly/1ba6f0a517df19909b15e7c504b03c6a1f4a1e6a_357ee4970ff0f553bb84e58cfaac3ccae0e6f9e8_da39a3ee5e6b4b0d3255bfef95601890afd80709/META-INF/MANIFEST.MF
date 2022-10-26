@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scodec-bits
+Implementation-Version: 1.1.34
+Specification-Vendor: Scodec
+Specification-Title: scodec-bits
+Implementation-Vendor-Id: org.scodec
+Specification-Version: 1.1.34
+Implementation-URL: https://github.com/scodec/scodec-bits
+Implementation-Vendor: Scodec
+

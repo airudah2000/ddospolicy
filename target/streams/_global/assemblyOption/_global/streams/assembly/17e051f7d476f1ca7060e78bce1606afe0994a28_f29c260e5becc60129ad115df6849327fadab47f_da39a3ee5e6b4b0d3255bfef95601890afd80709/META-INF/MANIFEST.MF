@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ip4s-core
+Implementation-Version: 3.1.3
+Specification-Vendor: Comcast Cable Communications Management, LLC
+Specification-Title: ip4s-core
+Implementation-Vendor-Id: com.comcast
+Specification-Version: 3.1.3
+Implementation-URL: https://github.com/Comcast/ip4s
+Implementation-Vendor: Comcast Cable Communications Management, LLC
+

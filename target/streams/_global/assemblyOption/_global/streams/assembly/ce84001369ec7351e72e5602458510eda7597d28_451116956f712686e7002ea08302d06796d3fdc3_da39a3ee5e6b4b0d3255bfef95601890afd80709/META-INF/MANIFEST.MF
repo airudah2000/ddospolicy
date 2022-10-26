@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Log4s
+Implementation-Version: 1.10.0
+Specification-Vendor: Log4s
+Specification-Title: Log4s
+Implementation-Vendor-Id: org.log4s
+Specification-Version: 1.10.0
+Implementation-URL: http://log4s.org/
+Implementation-Vendor: Log4s
+

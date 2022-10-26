@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: vault
+Implementation-Version: 3.2.1
+Specification-Vendor: Typelevel
+Specification-Title: vault
+Implementation-Vendor-Id: org.typelevel
+Specification-Version: 3.2.1
+Implementation-URL: https://typelevel.org/vault
+Implementation-Vendor: Typelevel
+

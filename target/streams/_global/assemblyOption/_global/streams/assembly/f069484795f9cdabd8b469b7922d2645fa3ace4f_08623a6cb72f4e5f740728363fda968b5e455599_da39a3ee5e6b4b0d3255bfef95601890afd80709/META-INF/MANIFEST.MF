@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ember-server
+Implementation-Version: 0.23.14
+Specification-Vendor: http4s.org
+Specification-Title: ember-server
+Implementation-Vendor-Id: org.http4s
+Specification-Version: 0.23.14
+Implementation-URL: https://http4s.org/
+Implementation-Vendor: http4s.org
+

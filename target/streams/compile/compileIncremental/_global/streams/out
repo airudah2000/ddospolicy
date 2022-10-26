@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 48 products, 10 sources, 19 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/io/ddospolicy/RemovePolicy.scala, ${BASE}/src/main/scala/models/Policy.scala, ${BASE}/src/main/scala/io/ddospolicy/CreatePolicy.scala, ${BASE}/src/main/scala/io/ddospolicy/Jokes.scala, ${BASE}/src/main/scala/io/ddospolicy/DdospolicyRoutes.scala, ${BASE}/src/main/scala/models/DdosJson.scala, ${BASE}/src/main/scala/io/ddospolicy/HelloWorld.scala, ${BASE}/src/main/scala/io/ddospolicy/Main.scala, ${BASE}/src/main/scala/models/Event.scala, ${BASE}/src/main/scala/io/ddospolicy/DdospolicyServer.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
